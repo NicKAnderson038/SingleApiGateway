@@ -1,0 +1,8 @@
+{
+  "name": "sls-single-api-gateway",
+  "version": "1.0.0",
+  "description": "Shared API gateway with multiple Node Lambdas",
+  "main": "handler.js",
+  "author": "Nick Anderson",
+  "license": "MIT"
+}
